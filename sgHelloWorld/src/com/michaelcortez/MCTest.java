@@ -1,4 +1,4 @@
-package com.skiffgames.HelloWorld;
+package com.michaelcortez;
 
 
 import javax.microedition.khronos.opengles.GL10;
@@ -27,7 +27,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-public class sgHelloWorldActivity extends BaseGameActivity {
+public class MCTest extends BaseGameActivity {
 	
 	// ===========================================================
 	// Constants

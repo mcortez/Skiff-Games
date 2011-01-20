@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, sgHelloWorldActivity!</string>
-    <string name="app_name">sgHelloWorldApp</string>
+    <string name="hello">Hello World, MC-Test!</string>
+    <string name="app_name">MC-Test</string>
 </resources>
